@@ -7,8 +7,6 @@ This project contains automated tests for Chatty project. It covers various scen
 
 - Java 11
 - Maven
-- WebDriver (configured in BaseTest)
-- Allure Report (optional for generating test reports)
 
 ## Dependencies
 
